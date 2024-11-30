@@ -1,1 +1,10 @@
-
+body{
+    background-color: wheat;
+}
+h1{
+    text-align: center;
+}
+#azResBtn{
+    height: 80px;
+    width: 125px;
+}
