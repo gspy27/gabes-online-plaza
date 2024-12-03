@@ -1,3 +1,6 @@
+body{
+    backround-color: white;
+}
 #countLabel{
     display: block;
     text-align: center;
