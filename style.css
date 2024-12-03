@@ -4,8 +4,19 @@ body{
 h1{
     text-align: center;
 }
-button{
-    text-align: center;
+.buttons{
     height: 80px;
     width: 125px;
+    border-radius: 20px;
+    background-color: rgb(230, 220, 174);
+}
+#circumFinder{
+    background-size: cover;
+}
+#azResBtn{
+    height: 80px;
+    width: 125px;
+}
+.buttons:hover{
+    background-color: rgb(238, 232, 204);
 }
